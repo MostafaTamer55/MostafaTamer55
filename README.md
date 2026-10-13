@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mostafa%20Tamer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Electronics%20%26%20Communication%20Engineering&descAlignY=55&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=160&section=header&text=Mostafa%20Tamer&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20ECE%20Student&descAlignY=58&descSize=16&descColor=58A6FF)
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+%2F+Deep+Learning+Engineer;n8n+Workflow+Automation;Data+Science+%26+Clinical+AI;Digital+Hardware+%26+VLSI+Design)](https://git.io/typing-svg)
 
@@ -54,7 +55,6 @@ Currently focused on:
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -81,7 +81,7 @@ Currently focused on:
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=100&section=footer)
 
 *[قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ]*
 
