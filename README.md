@@ -1,46 +1,60 @@
-# Hi there, I'm Mostafa Tamer 👋 
-### ⚡ Electrical & Computer Engineering Researcher | Applied Mathematics & DSP
+# Hi there, I'm Mostafa Tamer 👋
+### ⚡ Electrical & Computer Engineering Student | Hardware (Verilog) & Software Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![IEEE SPC 2027](https://img.shields.io/badge/IEEE%20Region%208-SPC%202027-red?style=flat-square)](https://ieeer8.org/)
+[![GitHub](https://img.shields.io/badge/GitHub-MostafaTamer55-181717?logo=github&style=flat-square)](https://github.com/MostafaTamer55)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?logo=gmail&style=flat-square)](mailto:mostafa.tamer@ieee.org)
 
----
-
-### 🔬 Research & Current Work
-- 🎓 **Research Focus:** Digital Signal Processing (DSP), Discrete-Time Systems, Commensurate Exponential Sums, and Multiplierless Filter Architectures.
-- 🏆 **Featured Research:** Author of **Symmetric Power Decomposition (SPD)** submitted to the **IEEE Region 8 Student Paper Contest (SPC 2027)**.
-- 🚀 **Core Innovation:** Developed an exact $\mathcal{O}(\log_p C)$ radix-based analytical solver that eliminates extraneous roots and achieves up to **75× speedup** over conventional numerical solvers (LAPACK).
-- 🛠️ Currently exploring: Real-time embedded DSP algorithms and hardware-efficient architectures (CSD / FPGA).
+> *"Passionate about digital IC design, algorithm development, and full-stack automation."*
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Tooling
 
-| Domain | Technologies & Tools |
-|---|---|
-| **Languages** | `Python`, `C / C++`, `MATLAB`, `LaTeX`, `PowerShell` |
-| **Scientific & Math** | `NumPy`, `SciPy`, `Matplotlib`, `Symbolic Computing` |
-| **Domains** | `Digital Signal Processing (DSP)`, `Discrete-Time Filters (IIR/FIR)`, `Algorithm Design` |
-| **Tools & Platforms** | `Git & GitHub`, `VS Code`, `Linux`, `IEEE Publishing Standard` |
+- **Hardware & HDL:** `Verilog HDL`, `Digital Logic Design`, `ModelSim / EDA Simulation`
+- **Programming & Scripting:** `Python`, `C / C++`, `JavaScript`, `PowerShell`, `HTML5 / CSS3`
+- **Libraries & Scientific:** `NumPy`, `SciPy`, `Matplotlib`, `Jupyter Notebook`
+- **Tools & Environments:** `Git & GitHub`, `VS Code`, `Linux / Bash`
 
 ---
 
-### 🌟 Featured Open-Source Projects
+## 📂 Projects & Work Showcase
 
-#### 📌 [spd-solver](https://github.com/MostafaTamer55/spd-solver)
-> **Symmetric Power Decomposition (SPD):** An exact radix-based analytical solver for commensurate exponential sums in discrete-time systems. Zero external dependencies, pure-Python ALU core, and automated IEEE SPC 2027 benchmark suite.
+### ⚡ 1. Digital Hardware Design & Computer Architecture (Verilog)
+* 🔹 **[ALU-Verilog-](https://github.com/MostafaTamer55/ALU-Verilog-)**: Complete Arithmetic Logic Unit (Addition, Subtraction, Increment, Decrement, Bitwise Logic, Zero Flag) with a verified simulation testbench.
+* 🔹 **[CLZ (Count Leading Zeros)](https://github.com/MostafaTamer55/CLZ)**: Hardware normalizer combining a CLZ priority module with an integrated Barrel Shifter for floating-point / DSP data paths.
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 🧮 2. Algorithms & Analytical Solvers (Python)
+* 🔹 **[spd-solver](https://github.com/MostafaTamer55/spd-solver)**: Symmetric Power Decomposition (SPD) engine — an exact radix-based analytical solver for commensurate exponential sums and discrete-time settling-time equations. Zero dependencies, pure-Python ALU core, and automated benchmark suite.
+
+---
+
+### 🤖 3. AI, Python Systems & Multimedia
+* 🔹 **[Digital-Bank](https://github.com/MostafaTamer55/Digital-Bank)**: Modular Python-based banking simulation and transaction management system.
+* 🔹 **[Text-to-photo-audio](https://github.com/MostafaTamer55/Text-to-photo-audio)**: Multimodal automated pipeline generating visual and synthetic audio content from text inputs.
+* 🔹 **[Mostafa_AITeam_3](https://github.com/MostafaTamer55/Mostafa_AITeam_3)**: Machine learning tasks, collaborative AI team experiments, and data pipelines.
+* 🔹 **[Task](https://github.com/MostafaTamer55/Task)**: Exploratory data analysis and Jupyter computational notebooks.
+
+---
+
+### 🌐 4. Web Development & Automation
+* 🔹 **[Quran-reels](https://github.com/MostafaTamer55/Quran-reels)**: Web automation platform for generating and formatting Quran video reels.
+* 🔹 **[Restaurant-Automation](https://github.com/MostafaTamer55/Restauran-Automation)**: Digital order collection system for waiters with automated Excel spreadsheet logging and manager email dispatching.
+* 🔹 **[Chatbot_Web_integrated](https://github.com/MostafaTamer55/Chatbot_Web_integrated)**: Interactive conversational web interface.
+* 🔹 **[Mostafa_Portfolio](https://github.com/MostafaTamer55/Mostafa_Portfolio)**: Personal web portfolio design and responsive showcase.
+
+---
+
+## 📊 GitHub Overview & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MostafaTamer55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mostafa's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MostafaTamer55&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mostafa's Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaTamer55&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 <p align="center">
-  <i>"Exact analytical insight always surpasses brute-force numerical iteration."</i>
+  <i>[قُلِ الْحَمْدُ لِلَّهِ وَسَلَامٌ عَلَىٰ عِبَادِهِ الَّذِينَ اصْطَفَىٰ]</i>
 </p>
