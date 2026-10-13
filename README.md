@@ -1,6 +1,5 @@
 # Hi there, I'm Mostafa Tamer 👋
-### ⚡ Electrical & Computer Engineering Student | Hardware (Verilog) & Software Developer
-
+### ⚡ Electronics & communication Engineering Student | Ai / ML
 [![GitHub](https://img.shields.io/badge/GitHub-MostafaTamer55-181717?logo=github&style=flat-square)](https://github.com/MostafaTamer55)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?logo=gmail&style=flat-square)](mailto:mostafa.tamer@ieee.org)
