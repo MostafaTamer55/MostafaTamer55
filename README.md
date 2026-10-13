@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=160&section=header&text=Mostafa%20Tamer&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20ECE%20Student&descAlignY=58&descSize=16&descColor=58A6FF)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+%2F+Deep+Learning+Engineer;n8n+Workflow+Automation;Data+Science+%26+Clinical+AI;Digital+Hardware+%26+VLSI+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+%2F+DL+Engineer;n8n+Workflow+Automation+Builder;AI+%26+Data+Science;Electronics+%26+Communication+Student)](https://git.io/typing-svg)
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-MostafaTamer55-0d1117?logo=github&style=for-the-badge&logoColor=white)](https://github.com/MostafaTamer55)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/)
